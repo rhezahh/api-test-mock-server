@@ -1,0 +1,28 @@
+{
+  "name": "assignment-test-warpin-mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-api": "./node_modules/mocha/bin/mocha ./test --recursive --reporter mochawesome --reporter-options reportDir=reports/mochawesome/ --timeout 180000 --exit",
+    "open-report": "open ./reports/mochawesome/mochawesome.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhezahh/assignment-test-warpin-mock-api.git"
+  },
+  "author": "rheza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhezahh/assignment-test-warpin-mock-api/issues"
+  },
+  "homepage": "https://github.com/rhezahh/assignment-test-warpin-mock-api#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-json-schema": "^1.5.1",
+    "dotenv": "^8.2.0",
+    "mocha": "^8.1.3",
+    "mochawesome": "^6.1.1",
+    "supertest": "^5.0.0"
+  }
+}
