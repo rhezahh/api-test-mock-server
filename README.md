@@ -4,7 +4,8 @@
 
 - node version `^v14.5.0`
 - Install Node.js and npm, we will use npm to install or yarn
-- Mocha x Chai for automation testing API
+- `Mocha x Chai` for automation testing API
+- Using `Postman API Mock`
 
 ### How to Getting Started:
 
