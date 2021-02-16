@@ -1,4 +1,4 @@
-# Assignment Test Warung Pintar
+# Mochai API Automation Test using Mock Servers
 
 ### Prerequisites:
 
@@ -11,7 +11,7 @@
 
 ```sh
 $ git clone "url this project"
-$ cd assignment-test-warpin-mock-api
+$ cd api-test-mock-server
 $ npm install
 $ cp .env.sample .env
 ```
