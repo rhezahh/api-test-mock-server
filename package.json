@@ -1,5 +1,5 @@
 {
-  "name": "assignment-test-warpin-mock-api",
+  "name": "api-test-mock-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhezahh/assignment-test-warpin-mock-api.git"
+    "url": "git+https://github.com/rhezahh/api-test-mock-server.git"
   },
   "author": "rheza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rhezahh/assignment-test-warpin-mock-api/issues"
+    "url": "https://github.com/rhezahh/api-test-mock-server/issues"
   },
-  "homepage": "https://github.com/rhezahh/assignment-test-warpin-mock-api#readme",
+  "homepage": "https://github.com/rhezahh/api-test-mock-server#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "chai-json-schema": "^1.5.1",
